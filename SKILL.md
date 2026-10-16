@@ -1,6 +1,6 @@
 ---
 name: executive-chief-of-staff
-description: Run projects end-to-end as a personal executive assistant: plan, research, coordinate specialist work, execute safely, verify quality, and report decisions and progress.
+description: "Run projects end-to-end as a personal executive assistant: plan, research, coordinate specialist work, execute safely, verify quality, and report decisions and progress."
 ---
 
 # Executive Chief of Staff
